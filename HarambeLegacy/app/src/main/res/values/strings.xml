@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Harambes Legacy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Strings for Splash Screen
+    <string name="splashText">Harambes Legacy</string>
+
+    //Strings for About Us
+    <string name="AboutUsDescription">"Harambe was a western lowland gorilla that was shot and killed in the Cincinnati Zoo and Botanical Garden on May 28th, 2016. On that day a three-year-old boy climbed into the gorilla enclosure where he was met shortly after by Harambe. Harambe grabbed the young boy and dragged him around within the water. Fearing for the young boy's life, there was an executive decision made. Harambe’s fate was sealed only minutes after encountering the young boy. A lowland gorilla can live up to 50 years, but Harambe’s life was cut short at just 17 years of age.
+
+
+The backlash from the public over Harambe’s death is something no one could have predicted. This is in large part due to the current state of the gorilla population in the world, and many felt that there were other possible scenarios that could have saved the young boy from harm. In the wild there are only about 200 thousand gorillas left, and that number is declining. The main reasons behind their decline are poaching and habitat destruction. Goriallas are for the most part herbivores, so they need access to large varieties of fruits and plants in their environments. A group of gorillas can have a territory of up to 16 sq. miles. This is something deforestation is threatening.
+
+
+Like many hero's of our time, they are recognized more in death than in life. Harambe is no different. The name Harambe is something many people around the world have come to recognize. The name Harambe, meaning ‘working together’ has truly created a new community of people dedicated to spreading his message of unity and the need for environmental conservation around the globe.
+
+
+Harambe was born at the Gladys Porter Zoo in Brownsville, Texas in the year 1999. Many of his keepers and the staff that worked with Harambe over the years knew him as a gentle soul who blessed those around him. There was little not to love about Harambe, and his memory lives on within all of us.
+
+
+R.I.P  Harambe - 1999-2016" </string>
+
+    //Strings for Main page
+    <string name="QuizGameButton">Quiz Game</string>
+    <string name="AboutUsButton">About Us</string>
+    <string name="ContactUsButton">Contact Us</string>
+    <string name="ChatButton">Chat</string>
+    <string name="WelcomeMessage">Harambe..may his legacy live on and may he stay forever in our hearts..</string>
+
+    //Strings for Mini Game Menu
+
+    //Strings for Contact Us
+    <string name="name_hint">Name</string>
+    <string name="comment_hint">Comment</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_hint">Email</string>
+    <string name="address_hint">Street Address</string>
+    <string name="register_button">Submit</string>
+    <string name="zip_hint">Zip Code</string>
+    <string name="city_hint">City</string>
+    <string name="state_hint">State</string>
+</resources>
